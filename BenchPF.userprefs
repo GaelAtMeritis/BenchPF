@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{1B171B28-B1A2-43F7-B45F-488B2AE63E3E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BenchPFConsole/ConsoleApp.fs">
+    <Files>
+      <File FileName="BenchPFConsole/Program.fs" Line="5" Column="15" />
+      <File FileName="BenchPFConsole/ResultFormater.fs" Line="33" Column="44" />
+      <File FileName="BenchPFConsole/PrimitiveObsession.fs" Line="4" Column="20" />
+      <File FileName="BenchPFConsole/BenchTools.fs" Line="31" Column="1" />
+      <File FileName="BenchPFConsole/ConsoleApp.fs" Line="3" Column="16" />
+      <File FileName="BenchPFConsole/CopyOnWrite.fs" Line="27" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/gaeldupire/Projects/BenchPF/BenchPFConsole/BenchTools.fs" relfile="BenchPFConsole/BenchTools.fs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BenchPFConsole PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
